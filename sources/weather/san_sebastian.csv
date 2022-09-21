@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,13,8,0.0,8.7,4,39,01:38 PM,12:11 AM,09:38 AM,06:58 PM,-1,10,10,10,4,6,48,0.0,1031,13,10,114,2,san_sebastian
+2020-01-02,12,6,0.0,8.7,3,45,02:03 PM,01:09 AM,09:38 AM,06:59 PM,-1,8,8,8,5,18,52,0.0,1030,12,10,115,3,san_sebastian
+2020-01-03,11,5,0.0,8.7,2,52,02:27 PM,02:07 AM,09:39 AM,07:00 PM,-0,8,8,8,4,56,58,0.0,1032,11,10,51,2,san_sebastian
+2020-01-04,12,5,0.0,8.7,3,59,02:52 PM,03:05 AM,09:39 AM,07:00 PM,2,7,8,7,11,2,67,0.0,1034,12,10,40,8,san_sebastian
+2020-01-05,13,6,0.0,8.7,3,66,03:18 PM,04:05 AM,09:39 AM,07:01 PM,1,8,9,8,6,0,60,0.0,1030,13,10,86,4,san_sebastian

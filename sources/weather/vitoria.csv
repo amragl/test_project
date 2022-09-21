@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,29,24,0.0,10.8,6,39,10:29 AM,11:09 PM,05:05 AM,06:25 PM,22,29,29,26,24,66,79,9.8,1010,29,9,64,17,vitoria
+2020-01-02,31,24,0.0,13.2,6,45,11:18 AM,11:42 PM,05:05 AM,06:25 PM,23,30,30,27,29,34,79,3.3,1008,31,10,106,20,vitoria
+2020-01-03,29,25,0.0,9.5,6,52,12:06 PM,No moonset,05:06 AM,06:25 PM,23,30,30,26,19,70,84,51.5,1008,29,6,183,11,vitoria
+2020-01-04,29,24,0.0,12.0,6,59,12:55 PM,12:16 AM,05:06 AM,06:26 PM,23,30,30,26,15,61,85,20.3,1009,29,9,181,9,vitoria
+2020-01-05,31,25,0.0,12.0,6,66,01:46 PM,12:51 AM,05:07 AM,06:26 PM,23,30,30,27,23,58,80,8.9,1009,31,9,95,16,vitoria

@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,13,8,0.0,8.7,4,39,01:39 PM,12:11 AM,09:38 AM,06:59 PM,1,10,10,10,4,7,52,0.0,1031,13,10,120,3,madrid
+2020-01-02,13,7,0.0,8.7,3,45,02:03 PM,01:10 AM,09:38 AM,06:59 PM,0,9,10,9,5,21,55,0.0,1030,13,10,115,3,madrid
+2020-01-03,11,6,0.0,8.7,2,52,02:27 PM,02:07 AM,09:38 AM,07:00 PM,1,8,8,8,2,58,62,0.0,1032,11,10,136,1,madrid
+2020-01-04,14,6,0.0,8.7,3,59,02:52 PM,03:05 AM,09:38 AM,07:01 PM,3,8,10,8,12,2,65,0.0,1034,14,10,38,9,madrid
+2020-01-05,15,8,0.0,8.7,4,66,03:19 PM,04:05 AM,09:38 AM,07:02 PM,4,10,11,10,6,1,63,0.0,1030,15,10,71,5,madrid

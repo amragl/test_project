@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,13,6,0.0,8.7,3,39,01:39 PM,12:11 AM,09:38 AM,06:59 PM,1,9,9,9,5,8,60,0.0,1030,13,10,108,3,getafe
+2020-01-02,13,5,0.0,8.7,3,45,02:03 PM,01:10 AM,09:38 AM,07:00 PM,1,8,9,8,7,20,63,0.0,1030,13,10,115,4,getafe
+2020-01-03,10,4,0.0,8.7,2,52,02:27 PM,02:07 AM,09:38 AM,07:01 PM,2,7,7,7,4,58,70,0.0,1032,10,10,229,2,getafe
+2020-01-04,11,5,0.0,8.7,3,59,02:52 PM,03:06 AM,09:38 AM,07:02 PM,2,6,8,6,20,2,69,0.0,1034,11,10,35,13,getafe
+2020-01-05,14,6,0.0,8.7,3,66,03:19 PM,04:05 AM,09:38 AM,07:02 PM,3,8,9,8,9,1,69,0.0,1030,14,10,69,6,getafe

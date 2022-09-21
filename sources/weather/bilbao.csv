@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,13,7,0.0,8.7,4,39,01:39 PM,12:04 AM,09:44 AM,06:46 PM,6,9,10,9,6,26,78,0.0,1031,13,10,167,4,bilbao
+2020-01-02,14,7,0.0,8.7,4,45,02:01 PM,01:04 AM,09:44 AM,06:47 PM,3,9,10,9,12,21,64,0.0,1028,14,10,177,8,bilbao
+2020-01-03,12,8,0.0,3.4,3,52,02:24 PM,02:04 AM,09:44 AM,06:48 PM,4,10,10,10,9,55,67,0.1,1032,12,10,226,6,bilbao
+2020-01-04,11,9,0.0,3.4,3,59,02:47 PM,03:04 AM,09:44 AM,06:49 PM,7,9,10,9,8,85,86,1.7,1036,11,9,163,6,bilbao
+2020-01-05,12,7,0.0,8.7,3,66,03:12 PM,04:05 AM,09:44 AM,06:50 PM,5,9,9,9,6,21,79,0.0,1032,12,10,104,5,bilbao

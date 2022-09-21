@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,9,3,0.0,6.9,2,39,01:27 PM,No moonset,09:30 AM,06:40 PM,1,5,5,5,5,26,78,0.0,1031,9,10,241,3,huesca
+2020-01-02,9,2,0.0,8.7,3,45,01:51 PM,12:55 AM,09:31 AM,06:41 PM,1,5,5,5,7,14,78,0.0,1030,9,10,86,4,huesca
+2020-01-03,9,4,0.0,8.7,2,52,02:13 PM,01:54 AM,09:31 AM,06:42 PM,0,5,6,5,9,25,69,0.0,1031,9,10,201,5,huesca
+2020-01-04,10,3,0.0,8.7,3,59,02:37 PM,02:53 AM,09:31 AM,06:43 PM,1,5,6,5,7,5,75,0.0,1034,10,10,298,4,huesca
+2020-01-05,9,3,0.0,8.7,3,66,03:03 PM,03:53 AM,09:31 AM,06:43 PM,0,4,5,4,8,3,73,0.0,1031,9,10,241,5,huesca

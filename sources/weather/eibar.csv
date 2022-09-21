@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,12,7,0.0,8.7,2,39,01:36 PM,12:02 AM,09:42 AM,06:45 PM,6,9,9,9,9,34,84,0.0,1032,12,10,169,5,eibar
+2020-01-02,13,6,0.0,6.9,2,45,01:59 PM,01:02 AM,09:42 AM,06:45 PM,4,7,8,7,17,24,73,0.0,1029,13,10,166,9,eibar
+2020-01-03,13,7,0.0,5.2,3,52,02:22 PM,02:02 AM,09:42 AM,06:46 PM,4,8,9,8,13,44,70,0.1,1032,13,10,236,7,eibar
+2020-01-04,11,4,0.0,3.4,2,59,02:45 PM,03:02 AM,09:42 AM,06:47 PM,8,8,9,8,12,81,88,3.5,1036,11,10,171,8,eibar
+2020-01-05,10,6,0.0,8.7,2,66,03:10 PM,04:03 AM,09:42 AM,06:48 PM,6,7,8,7,7,28,87,0.1,1032,10,9,66,5,eibar

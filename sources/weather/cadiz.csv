@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,16,11,0.0,8.7,4,39,01:46 PM,12:27 AM,09:37 AM,07:20 PM,9,12,13,12,22,1,77,0.0,1030,16,10,138,14,cadiz
+2020-01-02,16,11,0.0,7.0,3,45,02:12 PM,01:23 AM,09:38 AM,07:21 PM,10,12,13,12,18,34,81,0.0,1030,16,10,135,11,cadiz
+2020-01-03,15,12,0.0,7.0,3,52,02:38 PM,02:18 AM,09:38 AM,07:22 PM,9,12,13,12,17,41,80,0.0,1032,15,10,177,11,cadiz
+2020-01-04,15,10,0.0,8.7,4,59,03:05 PM,03:15 AM,09:38 AM,07:23 PM,8,11,12,11,16,15,79,0.0,1031,15,10,76,11,cadiz
+2020-01-05,15,11,0.0,8.7,4,66,03:34 PM,04:11 AM,09:38 AM,07:24 PM,9,11,13,11,27,5,78,0.0,1028,15,10,91,17,cadiz

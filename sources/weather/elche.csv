@@ -1,0 +1,6 @@
+date_time,maxtempC,mintempC,totalSnow_cm,sunHour,uvIndex,moon_illumination,moonrise,moonset,sunrise,sunset,DewPointC,FeelsLikeC,HeatIndexC,WindChillC,WindGustKmph,cloudcover,humidity,precipMM,pressure,tempC,visibility,winddirDegree,windspeedKmph,location
+2020-01-01,14,8,0.0,8.7,4,39,01:24 PM,12:02 AM,09:20 AM,06:53 PM,7,11,11,11,7,3,82,0.0,1031,14,10,230,5,elche
+2020-01-02,14,6,0.0,8.7,4,45,01:50 PM,12:59 AM,09:20 AM,06:54 PM,7,10,10,10,7,18,82,0.0,1030,14,10,254,4,elche
+2020-01-03,18,8,0.0,7.0,3,52,02:15 PM,01:55 AM,09:20 AM,06:54 PM,6,13,13,13,11,30,74,0.0,1030,18,10,190,6,elche
+2020-01-04,15,9,0.0,8.7,4,59,02:41 PM,02:52 AM,09:20 AM,06:55 PM,7,11,11,11,9,11,78,0.0,1031,15,10,200,5,elche
+2020-01-05,15,8,0.0,8.7,4,66,03:09 PM,03:50 AM,09:20 AM,06:56 PM,7,11,11,11,7,0,78,0.0,1029,15,10,220,4,elche
